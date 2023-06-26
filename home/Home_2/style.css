@@ -7,6 +7,14 @@
         text-decoration: none;
     }
     
+    .center {
+        padding: 0 calc(50%-573px);
+    }
+    
+    .top-center {
+        justify-content: center;
+    }
+    
     .menu {
         margin-top: 40px;
     }
