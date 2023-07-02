@@ -111,10 +111,168 @@
                     padding-top: 100px;
                     padding-bottom: 100px;
                     align-items: center;
-                    width: 1146px;
                     margin: 0 auto;
                 }
                 
                 .img-right {
                     padding-left: 41px;
+                }
+                
+                .subject {
+                    display: flex;
+                    padding-top: 100px;
+                    width: 1120px;
+                    justify-content: space-between;
+                    margin: 0 auto;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal;
+                    font-size: 24px;
+                    padding-bottom: 200px;
+                }
+                
+                .subject-business {
+                    padding: 30px;
+                    width: 310px;
+                }
+                
+                .subject-quality {
+                    padding: 30px;
+                    width: 310px;
+                }
+                
+                .subject-sales {
+                    padding: 30px;
+                    width: 310px;
+                }
+                
+                .frame {
+                    background: #FFF;
+                    box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
+                }
+                
+                .topic_title {
+                    width: 400px;
+                    ;
+                }
+                
+                .paragraph {
+                    color: #666;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 150%;
+                }
+                
+                .read-more {
+                    border: none;
+                    font-size: 11px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 150%;
+                    color: #000;
+                    background-color: #FFFFFF;
+                }
+                
+                .questions {
+                    background: #FAFAFA;
+                }
+                
+                .questions-place {
+                    display: flex;
+                    justify-content: center;
+                    width: 1120px;
+                    margin: auto;
+                    flex-direction: column;
+                }
+                
+                .text_questions {
+                    padding-top: 52px;
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    flex-direction: column;
+                    font-weight: bold;
+                }
+                
+                .head-text {
+                    color: #000;
+                    font-size: 45px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal;
+                    padding-bottom: 19px;
+                }
+                
+                .paragraph-text {
+                    color: #666;
+                    text-align: center;
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 150%;
+                    padding-bottom: 55px;
+                }
+                
+                .direction {
+                    display: flex;
+                    width: 1200px;
+                    padding-top: 54;
+                    justify-content: space-between;
+                    align-items: center;
+                    flex-direction: row;
+                }
+                
+                .img-direction {
+                    width: 385px;
+                    height: 289px;
+                    flex-shrink: 0;
+                }
+                
+                .learn-more {
+                    color: #000000;
+                }
+                
+                .keyword-research {
+                    width: 370px;
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    background: #FFF;
+                }
+                
+                .seo-optimazadion {
+                    width: 370px;
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    background: #FFF;
+                }
+                
+                .social-marketing {
+                    width: 370px;
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    background: #FFF;
+                }
+                
+                .text-direction-head {
+                    color: #000;
+                    font-size: 24px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal;
+                    font-weight: bold;
+                    padding-bottom: 22px;
+                }
+                
+                .text-direction-paragraph {
+                    color: #AAA;
+                    text-align: center;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 150%;
+                    padding-bottom: 39px;
                 }
